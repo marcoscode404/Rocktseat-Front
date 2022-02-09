@@ -1,5 +1,17 @@
 # Responsividade 
 
+
+
+
+
+
+![index html](https://user-images.githubusercontent.com/51343240/153127453-27a0639e-c07a-4c64-bbbc-e68670bebb0a.png)
+
+
+
+
+
+
 Fala Dev! 💜
 
 Responsividade é um assunto muito importante para que nosso layout seja flexível, conforme o dispositivo que o está acessando, seja ele smartphone, tablet ou desktop. (E até mesmo, a impressora sabia?)
